@@ -1,0 +1,12 @@
+{
+  "name": "node-db4-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cedricium/node-db4-challenge.git",
+  "author": "Cedricium <amaya.cedric@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.19.2",
+    "sqlite3": "^4.1.0"
+  }
+}
